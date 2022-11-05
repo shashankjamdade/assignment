@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851962557896",
+    "firebase_url": "https://recyclemybin-4665c.firebaseio.com",
+    "project_id": "recyclemybin-4665c",
+    "storage_bucket": "recyclemybin-4665c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851962557896:android:ba99a540376b7f5956bcfd",
+        "android_client_info": {
+          "package_name": "com.recyclemybin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851962557896-qi1q7i6vap5ovknsos4vghq8vfd9umdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpflqst7K1C94oEzPqewPWwzF27iwE31Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851962557896-qi1q7i6vap5ovknsos4vghq8vfd9umdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+==========1 st upload (31/5/2019)===========================================================================
+>Login & Register
+>Add referral
+>List referral, Lazy loading
+>FAQs
+>News & Updates
+
+==========2 nd upload (15/6/2019)===========================================================================
+>Multi Procedure (2 procedures at a time)
+>Navigation drawer, Notification, Logout
+>Multi file selection (5 files) img,files
+>Search Referral
+>In-progress, Completed, Cancelled status for referrals with Push Notification for Completed & Cancelled + Event Notification
+>Deeplinking for News & Updates
+>Like & share for News & Updates
+>Logout API
+>Force Update
+
+==========3 rd upload (11/7/2019)===========================================================================
+>Added 'Appointment-Given' status for referral
+>Blog Notification
+>API for referral detail (hitting after redirect from Notification to detail)
+>removed profile icon
+>removed like & share from News & Updates.
+>Added BIDS report (Only view after uploaded from CMS)
+>Auto logout (on statusCode = 1515 && status = false in Dashboard API)
